@@ -5,3 +5,7 @@ Enabled Microsoft 365 Unified Audit Log ingestion to capture and monitor user an
 **Tools:** Microsoft Purview, Exchange Online PowerShell
 
 **Outcome:** Unified Audit Log ingestion was successfully enabled and verified.
+
+## Evidence
+
+![Audit enabled](./screenshots/01-audit-enabled.png)
