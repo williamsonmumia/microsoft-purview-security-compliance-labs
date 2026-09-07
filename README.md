@@ -78,3 +78,7 @@ The labs were completed using Microsoft Learning training materials and lab guid
 ## Outcome
 
 Successfully completed and documented a comprehensive Microsoft Purview security and compliance lab portfolio demonstrating practical experience with **information protection, data classification, DLP, auditing, retention, insider risk, encryption, and DSPM**.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
