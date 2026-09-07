@@ -73,7 +73,7 @@ Each lab contains:
 
 The labs were completed using Microsoft Learning training materials and lab guidance.
 
-- [Microsoft Learning](https://microsoftlearning.github.io/)
+- [Microsoft Learning](https://microsoftlearning.github.io/SC-401T00-Information-Security-Administrator/)
 
 ## Outcome
 
